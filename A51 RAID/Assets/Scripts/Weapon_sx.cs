@@ -20,7 +20,7 @@ public class Weapon_sx : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.mousePosition.x < 400)
+        if (Input.mousePosition.x < 564)
         {
             Debug.Log(Input.mousePosition.x);
             Vector3 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;

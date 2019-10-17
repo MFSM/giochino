@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement_dx.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement_sx.cs" />
+     <Compile Include="Assets\Scripts\PlayBtnScript.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\Weapon.cs" />
      <Compile Include="Assets\Scripts\Weapon_dx.cs" />
